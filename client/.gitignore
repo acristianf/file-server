@@ -34,5 +34,7 @@ build/
 ### VS Code ###
 .vscode/
 
+testfiles/
+
 ### Mac OS ###
 .DS_Store
